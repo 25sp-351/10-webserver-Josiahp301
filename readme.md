@@ -1,0 +1,1 @@
+Hi professor I was not able to finish the webserver and am still cofused on some of the processes I need to make So I hope I can reiterate this as it is not done yet. Most of the code was provided code by the professor and I am still confused on my end so I hope to go over this in office hours again.
